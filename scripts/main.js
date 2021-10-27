@@ -8,10 +8,10 @@ const ErrElem = document.getElementById("err");
 // Initialize Firebase
 // TODO: Replace with your project's customized code snippet
 const config = {
-  apiKey: "XXXXXXXXX",
-  authDomain: "XXXXXXXXX",
-  databaseURL: "XXXXXXXXX",
-  projectId: "XXXXXXXXX",
+  apiKey: "AIzaSyDs9sKJ0BOZY97KCuHrVhcfMq-ZHfDCCyo",
+  authDomain: "invoice-app-96cb5.firebaseapp.com",
+  databaseURL: "invoice-app-96cb5",
+  projectId: "invoice-app-96cb5.appspot.com",
   storageBucket: "XXXXXXXXX",
   messagingSenderId: "XXXXXXXXX",
   appId: "XXXXXXXXX",
